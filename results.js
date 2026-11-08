@@ -1,4 +1,4 @@
-function createResourceCard(resource) {
+export function createResourceCard(resource) {
   const card = document.createElement("article");
   card.className = "resource-card";
 
