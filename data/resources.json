@@ -1,0 +1,13 @@
+[
+    {
+        "id": "REG-01",
+        "title": "Student Registration",
+        "summary": "A guide to adding, dropping, swapping, and waitlisting classes at Texas State.",
+        "description": "Use this page to learn how to register for classes through TXST Self-service. It explains how to see open seats and prerequisites, build a weekly calendar, and swap a class without losing your seat. It also points to tools like Plan Ahead, Time Tickets, and Holds & Errors, and gives One Stop contact information if you need help.",
+        "category": "Registration",
+        "tags": ["register", "registration", "classes", "enroll", "add class", "swap class", "waitlist", "schedule"],
+        "link": "https://onestop.txst.edu/registrar/student-registration.html",
+        "lastChecked": "2026-11-07"
+        
+    }
+]
