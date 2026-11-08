@@ -1,37 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Resource Navigator</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Resource Navigator</title>
 </head>
 <body>
- <header>
-  <h1>Student Resource Navigator</h1>
-  <p>This site links to official Texas State University resources but does not provide official advice.</p>
-</header>
+  <header>
+    <h1>Student Resource Navigator</h1>
+    <p>
+      This site links to official Texas State University resources
+      but does not provide official advice.
+    </p>
+  </header>
 
-<main>
-<form action="results.html" method="get">
-  <label for="search">Search resources</label>
-  <input
-    type="search"
-    id="search"
-    name="q"
-    placeholder="Enter a keyword"
-  >
+  <main>
+    <form id="search-form">
+      <label for="search">Search resources</label>
+      <input
+        type="search"
+        id="search"
+        name="q"
+        placeholder="Enter a keyword"
+      >
 
-  <label for="category">Category</label>
-  <select id="category" name="category">
-    <option value="">All categories</option>
-    <option value="registration">Registration</option>
-    <option value="technology">Technology</option>
-    <option value="graduate-support">Graduate support</option>
-    <option value="billing">Billing</option>
-  </select>
+      <label for="category">Category</label>
+      <select id="category" name="category">
+        <option value="">All categories</option>
+        <option value="registration">Registration</option>
+        <option value="technology">Technology</option>
+        <option value="graduate-support">Graduate support</option>
+        <option value="billing">Billing</option>
+      </select>
 
-  <button type="submit">Search</button>
-</form>
-</main>   
+      <button type="submit">Search</button>
+    </form>
+  </main>
+
+  <script>
+    document.getElementById("search-form").addEventListener("submit", function (event) {
+      event.preventDefault();
+    });
+  </script>
 </body>
 </html>
