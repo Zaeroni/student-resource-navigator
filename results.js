@@ -12,7 +12,7 @@ export function createResourceCard(resource) {
   category.textContent = "Category: " + resource.category;
 
   const link = document.createElement("a");
-  link.href = resource.url;
+  link.href = resource.link;
   link.textContent = "Visit " + resource.title;
 
   const lastChecked = document.createElement("p");
