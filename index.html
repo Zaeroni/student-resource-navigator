@@ -35,8 +35,19 @@
 
       <button type="submit">Search</button>
     </form>
+    <section aria-labelledby="results-heading">
+     <h2 id="results-heading">Resources</h2>
+
+     <p id="results-status" role="status">
+      Search or choose a category to see resources.
+     </p>
+
+     <div id="results"></div>
+  </section>
   </main>
 
+  <script src="results.js"></script>
+  
   <script>
     document.getElementById("search-form").addEventListener("submit", function (event) {
       event.preventDefault();
