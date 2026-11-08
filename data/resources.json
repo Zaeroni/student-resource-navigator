@@ -5,9 +5,261 @@
         "summary": "A guide to adding, dropping, swapping, and waitlisting classes at Texas State.",
         "description": "Use this page to learn how to register for classes through TXST Self-service. It explains how to see open seats and prerequisites, build a weekly calendar, and swap a class without losing your seat. It also points to tools like Plan Ahead, Time Tickets, and Holds & Errors, and gives One Stop contact information if you need help.",
         "category": "Registration",
-        "tags": ["register", "registration", "classes", "enroll", "add class", "swap class", "waitlist", "schedule"],
+        "tags": ["register",
+        "registration",
+        "classes",
+        "enroll",
+        "add class",
+        "swap class",
+        "waitlist",
+        "schedule"],
         "link": "https://onestop.txst.edu/registrar/student-registration.html",
         "lastChecked": "2026-11-07"
         
-    }
+    },
+
+    {
+        "id": "REG-02",
+        "title": "Dropping or Withdrawing",
+        "summary": "Explains the difference between dropping a class and withdrawing from the semester.",
+        "description": "Dropping removes one or more classes while you stay enrolled in at least one hourm and withdrawing takes you to zero hours for the term. The page warns that withdrawing can affect refunds, financial aid, and campus housing, and that telling your instructor does not count as an official drop. It lists the advisors offices to contact before you decide.",
+        "category": "Registration",
+        "tags": [
+            "drop",
+            "drop class",
+            "withdraw",
+            "withdrawl",
+            "quit class",
+            "refund",
+            "financial aid",
+            "deadline"
+        ],
+        "link": "https://onestop.txst.edu/registrar/dropping-or-withdrawing.html",
+        "lastChecked": "2026-11-07"
+    },
+    {
+    "id": "REG-03",
+    "title": "Time Tickets",
+    "summary": "Shows how to find the time you are first allowed to register for classes.",
+    "description": "A time ticket is your scheduled priority registration time, based mainly on your classification and completed earned hours. Use the View Your Time Ticket link on the page to see yours. The page also explains that priority depends on your Texas State GPA and that in-progress hours do not count.",
+    "category": "Registration",
+    "tags": [
+      "time ticket",
+      "registration time",
+      "when can I register",
+      "priority registration",
+      "classification",
+      "register",
+      "earned hours"
+    ],
+    "link": "https://onestop.txst.edu/registrar/student-registration/time-tickets.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "REG-04",
+    "title": "Key Dates",
+    "summary": "A calendar of important Texas State deadlines for registration, payments, and drops.",
+    "description": "This page lists key academic dates, including registration and late-fee deadlines, payment due dates, financial aid disbursement, add, drop, and withdrawal deadlines, and class start and end dates. It also shows final exams, grade release, and graduation milestones. Find your term and your course length to see which deadline applies to your classes.",
+    "category": "Registration",
+    "tags": [
+      "dates",
+      "deadlines",
+      "calendar",
+      "academic calendar",
+      "last day to drop",
+      "payment due",
+      "finals",
+      "semester"
+    ],
+    "link": "https://onestop.txst.edu/important-dates.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "TECH-01",
+    "title": "NetID",
+    "summary": "Explains what a NetID is and how to activate and manage yours.",
+    "description": "A NetID is your Texas State login name, and you pair it with a password to use university online services. This page shows how to activate a NetID, set up Duo multi-factor authentication, and change or reset your password.",
+    "category": "Technology",
+    "tags": [
+      "netid",
+      "login",
+      "account",
+      "activate",
+      "duo",
+      "multi-factor",
+      "password",
+      "sign in"
+    ],
+    "link": "https://itac.txst.edu/support/netid.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "TECH-02",
+    "title": "Reset Your NetID Password",
+    "summary": "Step-by-step help for resetting a forgotten NetID password.",
+    "description": "Use the Forgot Password option in the Online Toolkit and confirm your identity with the details listed on the page. A one-time link is sent to your personal email, and you then choose a new password. Have your NetID or Texas State ID, your date of birth, and access to your personal email ready before you start.",
+    "category": "Technology",
+    "tags": [
+      "forgot password",
+      "reset password",
+      "netid",
+      "locked out",
+      "can't log in",
+      "password",
+      "account access"
+    ],
+    "link": "https://itac.txst.edu/support/netid/reset-pw.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "TECH-03",
+    "title": "Reset NetID for Microsoft 365",
+    "summary": "Shows how to reset your NetID password so you can get back into Microsoft 365.",
+    "description": "Open the Online Toolkit, choose Forgot Password, and follow the steps to verify who you are. If the email with the one-time link does not arrive within about 15 minutes, check your junk or spam folder. After you agree to the university policies, you enter and confirm a new NetID password.",
+    "category": "Technology",
+    "tags": [
+      "microsoft 365",
+      "office 365",
+      "outlook",
+      "email",
+      "bobcatmail",
+      "password reset",
+      "netid",
+      "teams"
+    ],
+    "link": "https://itac.txst.edu/support/office365/reset-netid.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "TECH-04",
+    "title": "Online Toolkit",
+    "summary": "A free Texas State site for common account tasks.",
+    "description": "The Online Toolkit lets you update your NetID password, set up a personalized BobcatMail address, change your voicemail PIN, and search the campus directory. It is available to students, applicants, faculty, staff, and retirees.",
+    "category": "Technology",
+    "tags": [
+      "online toolkit",
+      "bobcatmail",
+      "campus directory",
+      "netid password",
+      "voicemail",
+      "email address",
+      "account"
+    ],
+    "link": "https://itac.txst.edu/support/online-toolkit.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "GRAD-01",
+    "title": "Graduate College Forms",
+    "summary": "Forms graduate students use for enrollment, thesis, exams, and doctoral milestones.",
+    "description": "This page lists forms from The Graduate College, including withdrawals, enrollment updates, travel fund requests, and assistantship tuition waivers. It also has master's thesis and exam forms and doctoral milestone forms, which must be completed in order. Forms are submitted with the required signatures, and the page explains which signature methods are accepted.",
+    "category": "Graduate Support",
+    "tags": [
+      "graduate forms",
+      "thesis",
+      "dissertation",
+      "grad school",
+      "assistantship",
+      "tuition waiver",
+      "exam",
+      "doctoral"
+    ],
+    "link": "https://www.gradcollege.txst.edu/forms.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "GRAD-02",
+    "title": "Student Services for Online Students",
+    "summary": "A list of support services for online students, from tech help to tutoring.",
+    "description": "This page lists technical support, financial aid, tutoring and writing help, graduate student support, library access, digital course materials, veterans services, accessibility help, career services, and graduation information. It gives ways to reach the IT Assistance Center and library research help, and an enrollment line for general questions.",
+    "category": "Graduate Support",
+    "tags": [
+      "online student",
+      "student services",
+      "tutoring",
+      "writing help",
+      "library",
+      "career services",
+      "accessibility",
+      "support"
+    ],
+    "link": "https://online.txst.edu/student-services/",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "BILL-01",
+    "title": "Payment Methods",
+    "summary": "Explains the ways to pay your Texas State bill and what each one costs.",
+    "description": "Students can pay online by e-check or by credit or debit card, by mail or in person with a check or money order, or through international wire services. Card payments have a convenience fee. The page also explains that payments must be posted by the deadline and that the university does not accept overpayments.",
+    "category": "Billing",
+    "tags": [
+      "pay bill",
+      "payment",
+      "tuition",
+      "e-check",
+      "credit card",
+      "convenience fee",
+      "wire transfer",
+      "deadline"
+    ],
+    "link": "https://onestop.txst.edu/cost-payments/payment-methods.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "BILL-02",
+    "title": "Costs and Payments FAQ",
+    "summary": "Answers common questions about bills, payment plans, and refunds.",
+    "description": "This FAQ explains how to view your e-bill, when installment payments are due, and which payment plans and emergency loans are available. It also covers checking your balance, how financial aid is applied, refunds, credit card fees, and the Guaranteed Price Plan.",
+    "category": "Billing",
+    "tags": [
+      "tuition",
+      "e-bill",
+      "payment plan",
+      "installments",
+      "refund",
+      "balance",
+      "emergency loan",
+      "financial aid"
+    ],
+    "link": "https://onestop.txst.edu/cost-payments/costs-payments-faq.html",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "BILL-03",
+    "title": "Student Business Services",
+    "summary": "The office that handles tuition billing and payment processing.",
+    "description": "Student Business Services oversees how tuition is billed and how payments are processed. The site links to costs and payments information, tuition assistance, payment plans, holds, and past-due balances, with policies and contact details.",
+    "category": "Billing",
+    "tags": [
+      "student business services",
+      "tuition",
+      "billing",
+      "payment plan",
+      "hold",
+      "past due",
+      "balance",
+      "sbs"
+    ],
+    "link": "https://www.sbs.txst.edu/",
+    "lastChecked": "2026-11-07"
+  },
+  {
+    "id": "BILL-04",
+    "title": "Tuition and Fee Definitions",
+    "summary": "Explains each tuition and fee charge on your bill.",
+    "description": "This page defines the tuition and mandatory fees Texas State charges and explains what each one funds. You can match the lines on your bill to their purpose and estimate your total by multiplying per-credit-hour rates by your enrolled hours. Charges like lab fees and late payment fees are listed separately under Other Fees.",
+    "category": "Billing",
+    "tags": [
+      "fees",
+      "tuition",
+      "charges",
+      "bill",
+      "credit hour",
+      "late fee",
+      "mandatory fees",
+      "cost"
+    ],
+    "link": "https://www.sbs.txst.edu/billing/fee-definitions.html",
+    "lastChecked": "2026-11-07"
+  }
 ]
