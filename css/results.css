@@ -1,0 +1,41 @@
+#results-status {
+  margin: 1rem 0;
+}
+
+#results {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.resource-card {
+  min-width: 0;
+  padding: 1.5rem;
+  background-color: white;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 8%);
+  overflow-wrap: anywhere;
+}
+
+.resource-card h3 {
+  margin: 0 0 0.75rem;
+  color: var(--maroon);
+  font-size: 1.35rem;
+  font-weight: normal;
+}
+
+.resource-card p {
+  margin: 0 0 0.75rem;
+}
+
+.resource-card a {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  font-weight: bold;
+}
+
+.resource-card p:last-child {
+  margin-bottom: 0;
+  color: #555;
+  font-size: 0.875rem;
+}
