@@ -100,6 +100,9 @@
     "description": "Use the Forgot Password option in the Online Toolkit and confirm your identity with the details listed on the page. A one-time link is sent to your personal email, and you then choose a new password. Have your NetID or Texas State ID, your date of birth, and access to your personal email ready before you start.",
     "category": "Technology",
     "tags": [
+      "technology",
+      "login",
+      "canvas",
       "forgot password",
       "reset password",
       "netid",
