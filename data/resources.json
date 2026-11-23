@@ -14,7 +14,7 @@
         "waitlist",
         "schedule"],
         "link": "https://onestop.txst.edu/registrar/student-registration.html",
-        "lastChecked": "2026-11-07"
+        "lastChecked": "2026-11-22"
         
     },
 
@@ -35,7 +35,7 @@
             "deadline"
         ],
         "link": "https://onestop.txst.edu/registrar/dropping-or-withdrawing.html",
-        "lastChecked": "2026-11-07"
+        "lastChecked": "2026-11-22"
     },
     {
     "id": "REG-03",
@@ -53,7 +53,7 @@
       "earned hours"
     ],
     "link": "https://onestop.txst.edu/registrar/student-registration/time-tickets.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "REG-04",
@@ -72,7 +72,7 @@
       "semester"
     ],
     "link": "https://onestop.txst.edu/important-dates.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "TECH-01",
@@ -91,7 +91,7 @@
       "sign in"
     ],
     "link": "https://itac.txst.edu/support/netid.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "TECH-02",
@@ -111,8 +111,8 @@
       "password",
       "account access"
     ],
-    "link": "https://itac.txst.edu/support/netid/reset-pw.html",
-    "lastChecked": "2026-11-07"
+    "link": "https://services.txst.edu/TDClient/39/ITAC/KB/ArticleDet?ID=391",
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "TECH-03",
@@ -131,7 +131,7 @@
       "teams"
     ],
     "link": "https://itac.txst.edu/support/office365/reset-netid.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "TECH-04",
@@ -149,7 +149,7 @@
       "account"
     ],
     "link": "https://itac.txst.edu/support/online-toolkit.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "GRAD-01",
@@ -168,7 +168,7 @@
       "doctoral"
     ],
     "link": "https://www.gradcollege.txst.edu/forms.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "GRAD-02",
@@ -187,7 +187,7 @@
       "support"
     ],
     "link": "https://online.txst.edu/student-services/",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "BILL-01",
@@ -206,7 +206,7 @@
       "deadline"
     ],
     "link": "https://onestop.txst.edu/cost-payments/payment-methods.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "BILL-02",
@@ -225,7 +225,7 @@
       "financial aid"
     ],
     "link": "https://onestop.txst.edu/cost-payments/costs-payments-faq.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "BILL-03",
@@ -244,7 +244,7 @@
       "sbs"
     ],
     "link": "https://www.sbs.txst.edu/",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   },
   {
     "id": "BILL-04",
@@ -263,6 +263,6 @@
       "cost"
     ],
     "link": "https://www.sbs.txst.edu/billing/fee-definitions.html",
-    "lastChecked": "2026-11-07"
+    "lastChecked": "2026-11-22"
   }
 ]
